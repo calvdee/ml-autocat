@@ -1,0 +1,9 @@
+.DS_STORE
+.ipynb_checkpoints
+__pycache__/
+.pytest_cache/
+data/processed/
+data/raw/
+data/interim/
+0.0-data-preparation.ipynb
+1.0-exploratory-analysis.ipynb

@@ -19,3 +19,6 @@ By eliminating the need for new and existing users to manually categorize thousa
     ├── models              # Saved models
     └── notebooks           # Notebooks
     └── Makefile            # Project tasks
+
+## Project State
+The current version of this project includes notebooks and application code to build machine learning models for the product classification task.  The project does not currently include the contents of the `data` folder and is missing the initial ETL and exploratory notebooks.  The missing folder and notebooks will be added once the source data has been sanitized.  In the meantime feel free to reach out if you have any questions about this codebase - calvindlm@gmail.com.
